@@ -1,5 +1,5 @@
 const {
-  izumi,
+  love_bite,
   mode,
   PREFIX,
   getApiConfig,
@@ -281,13 +281,13 @@ izumi({
 
         const externalAdReply = {
             title: dn.result.title,
-            body: "Izumi",
-            sourceUrl: sourceurl,
+            body: "𝑴𝒓. 𝑫𝒂𝒔 ‹𝟹",
+            sourceUrl: "https://whatsapp.com/channel/0029VaB3pXZ8KMqe8pfJCV02",
             mediaUrl: sourceurl,
             mediaType: 1,
             showAdAttribution: true,
-            renderLargerThumbnail: false,
-            thumbnailUrl: thumbnail
+            renderLargerThumbnail: true,
+            thumbnailUrl: "https://cdn.ironman.my.id/q/UwMms.jpg"
         };
 
         const sentMsg = await client.sendMessage(message.jid, { 
@@ -368,7 +368,7 @@ izumi({
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
             newsletterJid: '120363298577467093@newsletter',
-            newsletterName: "Iᴢᴜᴍɪ-ᴠ3",
+            newsletterName: "𝑳𝒐𝒗𝒆 𝑩𝒊𝒕𝒆",
             serverMessageId: -1
           }
         }
