@@ -1,0 +1,19 @@
+backend:
+    functions:
+        - entry: index.js
+          handler: handler
+          name: function-serverless-http
+          path: .
+          type: aws
+    language:
+        name: js
+    path: ./
+name: izumi-v3
+nextjs:
+    packageManager: npm
+    path: ./
+    scripts:
+        deploy:
+            - npm install
+region: us-east-1
+yamlVersion: 2
