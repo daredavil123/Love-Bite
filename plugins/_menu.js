@@ -1,4 +1,4 @@
-const { PREFIX, izumi, mode, commands, getJson } = require("../lib/");
+const { PREFIX, love_bite, mode, commands, getJson } = require("../lib/");
 const version = require("../package.json").version;
 const config = require("../config");
 izumi({
