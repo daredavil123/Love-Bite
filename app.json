@@ -1,11 +1,11 @@
 {
-  "name": "Izumi-v3",
-  "description": "Izumi a Multi Device WhatsApp bot",
+  "name": "Love-Bite",
+  "description": "Love-Bite a Multi Device WhatsApp bot",
   "logo": "https://i.imgur.com/Hgiamot.jpeg",
   "keywords": ["whatsapp"],
-  "repository": "https://github.com/sataniceypz/Izumi-v3",
+  "repository": "https://github.com/daredavil123/Love-Bite",
   "website": "https://eypz-izumi.vercel.app",
-  "success_url": "https://github.com/sataniceypz/Izumi-v3",
+  "success_url": "https://github.com/daredavil123/Love-Bite",
   "stack": "container",
   "env": {
     "SESSION_ID": {
@@ -33,22 +33,22 @@
     "BOT_NAME": {
       "description": "Enter your bot name",
       "required": false,
-      "value": "Iᴢᴜᴍɪ-ᴍᴅ"
+      "value": "LOVE-BITE"
     },
     "STICKER_PACKNAME": {
       "description": "Enter your sticker pack name",
       "required": false,
-      "value": "Iᴢᴜᴍɪ-ᴍᴅ"
+      "value": "LOVE"
     },
     "AUDIO_DATA": {
       "description": "Enter your audio data (title, author, link)",
       "required": false,
-      "value": "enjoy this song, Iᴢᴜᴍɪ-v3, https://i.imgur.com/cO0TZJv.jpeg"
+      "value": "enjoy this song, LOVEBITE, https://i.imgur.com/cO0TZJv.jpeg"
     },
     "OWNER_NAME": {
       "description": "Enter your name",
       "required": false,
-      "value": "Eʏᴘᴢ"
+      "value": "LOVEBITE"
     },
     "CAPTION": {
       "description": "Enter your caption",
@@ -63,12 +63,12 @@
     "AUTHOR": {
       "description": "Enter sticker pack author name",
       "required": false,
-      "value": "Eypz"
+      "value": "BITE"
     },
     "SUDO": {
       "description": "Add Sudo number",
       "required": false,
-      "value": "919876543210"
+      "value": "917439382677"
     },
     "MODE": {
       "description": "Bot work type",
