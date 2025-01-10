@@ -1,7 +1,7 @@
 {
-  "name": "Izumi-v3",
-  "version": "3.0.0",
-  "description": "Izumi-v3 a multi device WhatsApp Bot",
+  "name": "LOVE-BITE",
+  "version": "1.0.0",
+  "description": "LOVE-BITE a multi device WhatsApp Bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
