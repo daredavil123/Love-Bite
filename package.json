@@ -1,14 +1,14 @@
 {
-  "name": "Izumi-v3",
+  "name": "LOVE-BITE",
   "version": "3.3.1",
-  "description": "IZUMI-MD simple multi device WhatsApp Bot.",
+  "description": "LOVE-BITE simple multi device WhatsApp Bot.",
   "main": "./index.js",
   "scripts": {
     "start": "pm2 start . --attach --name izumi"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sataniceypz/Izumi-v3.git"
+    "url": "git+https://github.com/daredavil123/Love-Bite.git"
   },
   "keywords": [
     "bot",
@@ -18,9 +18,9 @@
   "author": "EYPZ",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/sataniceypz/Izumi-v3/issues"
+    "url": "https://github.com/daredavil123/Love-Bite/issues"
   },
-  "homepage": "https://github.com/sataniceypz/Izumi-v3#readme",
+  "homepage": "https://github.com/daredavil123/Love-Bite#readme",
   "dependencies": {
     "@adiwajshing/baileys": "git+https://github.com/A-d-i-t-h-y-a-n/Baileys.js.git",
     "@adiwajshing/keyed-db": "^0.2.4",
