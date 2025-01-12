@@ -1,7 +1,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## Izumi-v3 a simple Multi device Whatsapp Bot   
+## Love-Bite a simple Multi device Whatsapp Bot   
 ### Setup 
 1. Get Session
    <br>
