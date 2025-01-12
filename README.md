@@ -1,11 +1,11 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## Love-Bite a simple Multi device Whatsapp Bot   
+## 𝑳𝒐𝒗𝒆 𝑩𝒊𝒕𝒆 💜💋🔥 a simple Multi device Whatsapp Bot   
 ### Setup 
 1. Get Session
    <br>
-<a href='https://izumi.maskser.me/' target="_blank"><img alt='Session' src='https://img.shields.io/badge/Session-V3100000?style=for-the-badge&logo=render&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://jarvis-qr.vercel.app/' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
  
 ### For getting session in Indian number
