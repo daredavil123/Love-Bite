@@ -1,8 +1,8 @@
 services:
 - type: web
-  name: izumi-v3
+  name: 𝑳𝒐𝒗𝒆 𝑩𝒊𝒕𝒆
   runtime: docker
-  repo: https://bitbucket.org/izumi-eypz/izumi-v3
+  repo: https://bitbucket.org/daredevil123/Love-Bite
   plan: free
   envVars:
   - key: SUDO
