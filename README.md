@@ -1,5 +1,5 @@
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://files.catbox.moe/havpx2.png'/></a>
 
 ## 𝑳𝒐𝒗𝒆 𝑩𝒊𝒕𝒆 💜💋🔥 a simple Multi device Whatsapp Bot   
 ### Setup 
