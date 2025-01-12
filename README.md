@@ -67,7 +67,7 @@
  </br>
 3. Deploy on Panel
    <br>
-<a href='https://github.com/Axl-Sparky/Izumi-v3/archive/refs/heads/main.zip' target="_blank"><img alt='Deploy' src='https://img.shields.io/badge/-Download-black?style=for-the-badge&logo=Panel&logoColor=white'/></a>
+<a href='https://gist.github.com/IRON-M4N/2ab6496e34ec714682c7b6fb6ee86ca1' target="_blank"><img alt='PANEL' src='https://img.shields.io/badge/PANEL-100000?style=for-the-badge&logo=pterodactyl&logoColor=white&labelColor=black&color=black&logoSize=auto'/></a>
   </p>
   <br>
 ### RUN ON VPS/TERMUX
