@@ -20,7 +20,7 @@
 
 1. Fork This Repository
    <br>
-<a href='https://github.com/sataniceypz/Izumi-V3/fork' target="_blank"><img alt='FORK' src='https://img.shields.io/badge/fork-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/daredavil123/Love-Bite/fork' target="_blank"><img alt='FORK' src='https://img.shields.io/badge/fork-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black'/></a>
 
 ### Heroku
 1. Create account on Heroku
@@ -88,8 +88,8 @@
    ```
 2. installation
    ```
-   git clone https://github.com/sataniceypz/Izumi-v3
-   cd Izumi-v3
+   git clone https://github.com/daredavil123/Love-Bite
+   cd Love-Bite
    rm -rf package-lock.json
 4. Configuration
    ```
