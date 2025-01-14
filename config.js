@@ -26,7 +26,7 @@ module.exports = {
   LOG_MSG: toBool(process.env.LOG_MSG) || true,
   READ_CMD: toBool(process.env.READ_CMD),
   SESSION_ID: process.env.SESSION_ID || "Session id",
-  MENU_URL: process.env.MENU_URL || "https://ik.imagekit.io/eypz/1722873079279_lHOJlrddC.png",
+  MENU_URL: process.env.MENU_URL || "https://files.catbox.moe/havpx2.png",
   CAPTION: process.env.CAPTION || "𝑳𝒐𝒗𝒆 𝑩𝒊𝒕𝒆",
   READ_MSG: toBool(process.env.READ_MSG),
   OWNER_NAME: process.env.OWNER_NAME || "𝑴𝒓.  𝑫𝒂𝒔 ‹𝟹",
