@@ -4,7 +4,7 @@
   "description": "LOVE-BITE simple multi device WhatsApp Bot.",
   "main": "./index.js",
   "scripts": {
-    "start": "pm2 start . --attach --name izumi"
+    "start": "pm2 start . --attach --name Love-Bite"
   },
   "repository": {
     "type": "git",
@@ -12,8 +12,8 @@
   },
   "keywords": [
     "bot",
-    "izumi",
-    "Eypz"
+    "love",
+    "Davil"
   ],
   "author": "𝑴𝒓.  𝑫𝒂𝒔 ‹𝟹",
   "license": "GPL-3.0-or-later",
